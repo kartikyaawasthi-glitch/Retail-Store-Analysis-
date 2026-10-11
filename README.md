@@ -1,4 +1,4 @@
-# 🏬 Retail Sales Analysis Dashboard (Power BI) by Kartik
+# 🏬 Retail Sales Analysis Dashboard (Power BI) by Kartikya Awasthi
 
 ---
 
