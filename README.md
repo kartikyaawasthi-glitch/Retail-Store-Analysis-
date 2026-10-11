@@ -122,7 +122,7 @@ By leveraging these insights, the business can enhance decision-making, strength
 
 ## 👩‍💻 Author 
 
-**👤 Name:** *Kartikaye Awasthi*  
+**👤 Name:** *Kartikya Awasthi*  
 
 **📊 Power BI Dashboard:** [View Live Dashboard](https://app.powerbi.com/links/GaNUK--9eX?ctid=474565c1-bca4-4295-a2f5-b0c7dbf2591c&pbi_source=linkShare&bookmarkGuid=4b92c5b1-9866-40ab-a268-ef24cbe5d0de)
 
