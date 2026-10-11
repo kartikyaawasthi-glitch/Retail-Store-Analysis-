@@ -9,14 +9,7 @@ The **Retail Sales Analysis Dashboard** is an interactive **Power BI project** d
 This Power BI project explores the story behind retail sales data transforming numbers into insights.  
 The dashboard reveals key trends in **sales performance**, **revenue growth**, and **customer demographics**, helping decision-makers identify profitable channels, boost customer retention, and optimize business growth.
 
----
 
-## 🔗 Live Dashboard Link
-
-View the interactive Power BI dashboard here:  
-👉 [Click to open Retail Sales Dashboard in Power BI Service](https://app.powerbi.com/links/GaNUK--9eX?ctid=474565c1-bca4-4295-a2f5-b0c7dbf2591c&pbi_source=linkShare&bookmarkGuid=4b92c5b1-9866-40ab-a268-ef24cbe5d0de)
-
----
 
 ## 🗂️ Project Structure
 
@@ -124,10 +117,9 @@ By leveraging these insights, the business can enhance decision-making, strength
 
 **👤 Name:** *Kartikya Awasthi*  
 
-**📊 Power BI Dashboard:** [View Live Dashboard](https://app.powerbi.com/links/GaNUK--9eX?ctid=474565c1-bca4-4295-a2f5-b0c7dbf2591c&pbi_source=linkShare&bookmarkGuid=4b92c5b1-9866-40ab-a268-ef24cbe5d0de)
 
 
 
----
+
 
 **⭐ If you found this project insightful, please give it a star on GitHub!**
